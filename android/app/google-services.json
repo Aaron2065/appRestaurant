@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "964960934583",
+    "project_id": "db-gestion-alimentos",
+    "storage_bucket": "db-gestion-alimentos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964960934583:android:078a1d529b271114bb4b32",
+        "android_client_info": {
+          "package_name": "com.example.gestion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn9ls0e7LevdLSLw0fnC6bMFb8aIwT-4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
